@@ -1,0 +1,15 @@
+/Users/Schule8/Projects/Mchanics/Mchanics/bin/Debug/net6.0/Mchanics
+/Users/Schule8/Projects/Mchanics/Mchanics/bin/Debug/net6.0/Mchanics.deps.json
+/Users/Schule8/Projects/Mchanics/Mchanics/bin/Debug/net6.0/Mchanics.runtimeconfig.json
+/Users/Schule8/Projects/Mchanics/Mchanics/bin/Debug/net6.0/Mchanics.dll
+/Users/Schule8/Projects/Mchanics/Mchanics/bin/Debug/net6.0/Mchanics.pdb
+/Users/Schule8/Projects/Mchanics/Mchanics/obj/Debug/net6.0/Mchanics.csproj.AssemblyReference.cache
+/Users/Schule8/Projects/Mchanics/Mchanics/obj/Debug/net6.0/Mchanics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Schule8/Projects/Mchanics/Mchanics/obj/Debug/net6.0/Mchanics.AssemblyInfoInputs.cache
+/Users/Schule8/Projects/Mchanics/Mchanics/obj/Debug/net6.0/Mchanics.AssemblyInfo.cs
+/Users/Schule8/Projects/Mchanics/Mchanics/obj/Debug/net6.0/Mchanics.csproj.CoreCompileInputs.cache
+/Users/Schule8/Projects/Mchanics/Mchanics/obj/Debug/net6.0/Mchanics.dll
+/Users/Schule8/Projects/Mchanics/Mchanics/obj/Debug/net6.0/refint/Mchanics.dll
+/Users/Schule8/Projects/Mchanics/Mchanics/obj/Debug/net6.0/Mchanics.pdb
+/Users/Schule8/Projects/Mchanics/Mchanics/obj/Debug/net6.0/Mchanics.genruntimeconfig.cache
+/Users/Schule8/Projects/Mchanics/Mchanics/obj/Debug/net6.0/ref/Mchanics.dll
