@@ -1,16 +1,16 @@
-class Wheels
+class Car
 {
-    public string name = "Body";
+    public string name = "Car";
     public void Print()
     {
         Console.ForegroundColor = ConsoleColor.Red;
         Console.WriteLine("[LOGS]");
         Console.ResetColor();
         Console.ForegroundColor = ConsoleColor.Blue;
-        Console.WriteLine($"2)Body\n {name}");
+        Console.WriteLine($"CAR\n {name}");
         Console.ResetColor();
         Console.ForegroundColor = ConsoleColor.Green;
-        Console.WriteLine("Success add 4 wheels!");
+        Console.WriteLine("The car is working!!");
         Console.ResetColor();
     }
 }

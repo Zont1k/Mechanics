@@ -1,16 +1,16 @@
-class Wheels
+class Petrol
 {
-    public string name = "Body";
+    public string name = "Petrol";
     public void Print()
     {
         Console.ForegroundColor = ConsoleColor.Red;
         Console.WriteLine("[LOGS]");
         Console.ResetColor();
         Console.ForegroundColor = ConsoleColor.Blue;
-        Console.WriteLine($"2)Body\n {name}");
+        Console.WriteLine($"FUEL\n {name}");
         Console.ResetColor();
         Console.ForegroundColor = ConsoleColor.Green;
-        Console.WriteLine("Success add 4 wheels!");
+        Console.WriteLine("U are filled with 45 liters!");
         Console.ResetColor();
     }
 }

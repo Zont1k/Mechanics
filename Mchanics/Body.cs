@@ -1,4 +1,4 @@
-class Wheels
+class Body
 {
     public string name = "Body";
     public void Print()
@@ -7,10 +7,10 @@ class Wheels
         Console.WriteLine("[LOGS]");
         Console.ResetColor();
         Console.ForegroundColor = ConsoleColor.Blue;
-        Console.WriteLine($"2)Body\n {name}");
+        Console.WriteLine($"3)Body\n {name}");
         Console.ResetColor();
         Console.ForegroundColor = ConsoleColor.Green;
-        Console.WriteLine("Success add 4 wheels!");
+        Console.WriteLine("Success add body!");
         Console.ResetColor();
     }
 }

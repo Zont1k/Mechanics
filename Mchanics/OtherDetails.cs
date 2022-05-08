@@ -7,7 +7,7 @@ class OtherDetails
         Console.WriteLine("[LOGS]");
         Console.ResetColor();
         Console.ForegroundColor = ConsoleColor.Blue;
-        Console.WriteLine($"3)Other Details\n {name}");
+        Console.WriteLine($"4)Other Details\n {name}");
         Console.ResetColor();
         Console.ForegroundColor = ConsoleColor.Green;
         Console.WriteLine("Success add other details!");
